@@ -6,11 +6,11 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 
 ## Desired outcome
 
-![desired outcome](./desired-outcome.png)
+![desired outcome](./desired-.png)
 
 ### Self Check
 
-- The blue icon is aligned to the left.
+- The blue icon is aligned to the left.outcome
 - There is equal space on either side of the icon (the gaps between the icon and the edge of the card, and the icon and the text, are the same).
 - There is padding around the edge of the modal.
 - The header, text, and buttons are aligned with each other.
